@@ -28,7 +28,8 @@ No FAQ yet.
 
 == Screenshots ==
 
-No screentshots yet.
+1. To use the widget, go to Appearance -> Widgets and Add "DP Twitter" widget, and configure it and click "Save".
+2. This is what the widget looks like.
 
 == Changelog ==
 
